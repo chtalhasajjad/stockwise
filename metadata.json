@@ -1,6 +1,0 @@
-{
-  "name": "StockWise – Supply Chain & Inventory Calculators",
-  "description": "Free professional supply chain and inventory management calculators for Economic Order Quantity (EOQ), Reorder Point (ROP), Safety Stock, and Inventory Turnover.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
